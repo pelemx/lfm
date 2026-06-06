@@ -5868,8 +5868,8 @@
             "created_at": "2024-04-06T20:02:13Z",
             "default_branch_commit_sha": "2718dac0ba7d2b19ad1d45606a9a74ae100c57d1",
             "commit_time": "2026-06-01T13:15:34Z"
-        },
-{
+        },    
+        {
             "name": "SD router",
             "url": "https://github.com/pelemx/sd-morouter.git",
             "description": "a simple button to change width and height values under txt2img and img2img tab",
@@ -5900,22 +5900,7 @@
             "default_branch_commit_sha": "df15e9629127ddb8ac30ac078011f364fa2e46b8",
             "commit_time": "2026-05-08T13:02:19Z"
         },
-        {
-            "name": "Style Organizer",
-            "url": "https://github.com/KazeKaze93/sd-webui-style-organizer.git",
-            "description": "A grid/gallery-based style selector extension for Stable Diffusion WebUI Forge.",
-            "tags": [
-                "UI related"
-            ],
-            "added": "2026-04-03",
-            "full_name": "KazeKaze93/sd-webui-style-organizer",
-            "github_description": "A grid/gallery-based style selector extension for all major Stable Diffusion WebUI builds.",
-            "stars": 28,
-            "default_branch": "master",
-            "created_at": "2026-02-14T12:26:40Z",
-            "default_branch_commit_sha": "5ff9f40c5500c89539edc8629dde0941ac9776c3",
-            "commit_time": "2026-05-05T18:45:28Z"
-        },
+        
         {
             "name": "VAE Tools (in extras tab)",
             "url": "https://github.com/light-and-ray/sd-webui-vae-tools.git",
